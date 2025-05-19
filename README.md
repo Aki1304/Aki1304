@@ -10,7 +10,6 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/Aki1304">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aki1304&hide=prs,issues&hide_title=false&show_icons=true&include_all_commits=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aki1304&hide=prs,issues&hide_title=false&show_icons=true&include_all_commits=true&theme=graywhite" />
   </a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aki1304&hide=contribs,prs&show_icons=true&theme=graywhite)
