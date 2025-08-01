@@ -13,7 +13,7 @@
 
 # 아래는 공개된 레포의 링크입니다. 개인 프로젝트의 코드만 공개되어 있습니다.
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aki1304&repo=ActionGameCodeStudy&theme=tokyonight)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aki1304&repo=UnityMobile2DPractice&theme=tokyonight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aki1304&repo=ActionGameCodeStudy&theme=tokyonight)](https://github.com/Aki1304/ActionGameCodeStudy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aki1304&repo=UnityMobile2DPractice&theme=tokyonight)](https://github.com/Aki1304/UnityMobile2DPractice)
 
 
