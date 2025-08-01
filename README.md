@@ -7,8 +7,7 @@
 간단한 코드 정리나 프로젝트 설명에 사용됩니다.
 
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://grape-snout-c2d.notion.site/124d386bbf6780789718d21097c09b63"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
-"/></a>
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://grape-snout-c2d.notion.site/124d386bbf6780789718d21097c09b63)
 
 
 [()](https://grape-snout-c2d.notion.site/124d386bbf6780789718d21097c09b63)
