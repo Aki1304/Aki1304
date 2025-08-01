@@ -10,5 +10,6 @@
 
 ---
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aki1304 &repo=ActionGameCodeStudy)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aki1304&repo=ActionGameCodeStudy)
+
 
