@@ -5,7 +5,7 @@
 아래는 노션 링크입니다.
 
 간단한 코드 정리나 프로젝트 설명에 사용됩니다.
-아래에 현재 공개 제외된 코드들은 정리를 해두었습니다.
+노션은 현재 공개 제외된 코드들은 정리를 해두었습니다.
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://grape-snout-c2d.notion.site/124d386bbf6780789718d21097c09b63)
 
